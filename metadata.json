@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Suite",
+  "description": "An all-in-one application showcasing various Gemini API features, including chat with search grounding, complex reasoning with thinking mode, live voice conversations, audio transcription, and text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
